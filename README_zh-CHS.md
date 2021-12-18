@@ -99,7 +99,7 @@ JingOS在物理触控板手势上也做了优化，支持与触摸屏幕类似�
 
 ## 关于我们
 
-JingOS is 是鲸鲮科技的产品。我们的logo里面也是有一条大鲸鱼和一条小鲮鱼，寓意着大小鱼都有的小生态系统。\
+JingOS 是鲸鲮科技的产品。我们的logo里面也是有一条大鲸鱼和一条小鲮鱼，寓意着大小鱼都有的小生态系统。\
 我们是由一群来自全球知名IT公司的人员组成的团队（包括联想、三星、阿里巴巴、Canonical/Ubuntu、Trolltech等）。
 
 我们的团队分布在中国北京和美国加州。
@@ -150,13 +150,13 @@ missing popular apps.
   the JingOS ARM version after v1.0 in June.-->
   
 JingOS 可以运行 Android 应用吗？
-> 并没有原生支持。但你可以用 Anbox 来跑 Android 应用。 这里是链接：https://anbox.io
+> JingPad A1 上的 JingOS ARM 可以运行 Android 应用。 欲知更多信息，请参见 Wiki。
 
 哪个设备对 JingOS 的支持最好？
-> 触屏设备比如 Surface Pro 6。他们对 JingOS 的功能支持得最好。
+> 触屏设备，比如 JingPad A1 和Surface Pro 6。他们对 JingOS 的功能支持得最好。
 
 哪些设备已经用 JingOS 测试过？
-> 我们测试了 Microsoft Surface、Huawei Mate Book、Lenovo Yoga Laptop、Eve V 和 Windows 10 上的虚拟机。 此外我们还知道社区还在这些设备上运行过 JingOS：Razer Blade Stealth 13.3"、 Dell Latitude 7275 和 Teclast X16 Pro.
+> 我们测试了 Microsoft Surface、Huawei Mate Book、Lenovo Yoga Laptop、Eve V 和 Windows 10 上的虚拟机。 此外我们还知道社区还在这些设备上运行过 JingOS：雷蛇灵刃 13 潜行版、 戴尔 Latitude 7275 和台电 X16 Pro.
 
 我能在基于 ARM 的设备上安装 JingOS 吗？
 > 现在暂时还不行，因为 JingOS v0.9 及以下版本仅支持 x86-64 架构。当 JingOS 的 ARM 版本发布后我们将支持社区移植其至 ARM 设备。
@@ -172,7 +172,9 @@ JingOS 可以运行 Android 应用吗？
 * JingOS v0.9: 于 2021 年 5 月 31 日发布。 添加了对不同分辨率、设置壁纸、文件（解）压缩的支持。通知中心和控制面板升级为高斯模糊效果。
   在 v0.9 版本上密码可以很复杂，即可以包含字符、数字和符号。鼠标点击的准确性得到提高，并创建了几个捷径图标。
 
-* JingOS v1.0: 将于 2021 年 7 月 30 日后不久发布。 JingOS 将首次支持基于 ARM 的设备 JingPad A1。
+* JingOS v1.0 ARM: 我们已于 2021 年 9 月 28 日发布。
+* JingOS V1.1 ARM: 于 2021 年 11 月 6 日发布。
+* JingOS V1.1.1 ARM: 于 2021 年 11 月 30 日发布。
 <!--
 #### We will release updates every month after June.
 
